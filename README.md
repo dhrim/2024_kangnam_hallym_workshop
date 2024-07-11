@@ -26,16 +26,36 @@ ChatGPT와 같은 생성형 AI는 아직 연구에 직접 활용은 어렵지만
 # 진행 일정
 
 ## 1일차
-- AI, 딥러닝의 이해
-- 실습 환경 셋업
-- 딥러닝 데이터 처리와 딥러닝 학습 실습
-- 다양한 딥러닝 작업 실습
+
+- AI의 이해, 딥러닝의 이해 [AI의_이해.pptx](AI의_이해.pptx)
+- 실습 환경 셋업 [TODO]()
+- 딥러닝 실습 [dnn_intro.ipynb](material/dnn_intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/dnn_intro.ipynb)
+    - 최소 DNN 코드 실습
+    - 영상 데이터의 이해
+    - 영상 데이터 분류, 컬러영상 데이터 분류
+    - 영상 데이터 회귀
+- 딥러닝 활용 실습 [dnn_application.ipynb](material/dnn_application.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/dnn_application.ipynb)
+    - AutoEncoder 실습
+    - AutoEncoder를 사용한 노이즈 제거 실습
+    - AutoEncoder를 사용한 해상도 증대 실습
+    - U-Net을 사용한 영상분할 실습
+
+
+<br>
 
 ## 2일차
-- 생성형 AI 이해
+- 생성형 AI 이해 [AI의_이해.pptx](AI의_이해.pptx)
+- ChatGPT, OpenAI API 소개 [AI의_이해.pptx](AI의_이해.pptx)
 - 생성형 AI 활용 예
 - ChatGPT 실습
 - OpenAI API 실습
+    - 호출 방법과 Prompt 실습 [openai_api_intro.ipynb](material/openai_api_intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/openai_api_intro.ipynb)
+    - image 태그달기 실습 [openai_api_image.ipynb](material/openai_api_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/openai_api_image.ipynb)
+    - image 생성 실습 [openai_api_image_generation.ipynb](material/openai_api_image_generation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/openai_api_image_generation.ipynb)
+    - 임베딩
+        - OpenAI의 임베딩 소개글 : https://openai.com/index/introducing-text-and-code-embeddings/
+        - 임베딩 실습 : [how_to_embedding.ipynb](material/how_to_embedding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/how_to_embedding.ipynb)
+    - 임베딩을 사용한 커스텀 QnA 엔진 실습 : [customer_qna_engine.ipynb](material/customer_qna_engine.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/customer_qna_engine.ipynb)
 
 <br>
 

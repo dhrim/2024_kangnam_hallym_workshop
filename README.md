@@ -27,7 +27,7 @@ ChatGPT와 같은 생성형 AI는 아직 연구에 직접 활용은 어렵지만
 
 ## 1일차
 
-- AI의 이해, 딥러닝의 이해 [AI의_이해.pptx](AI의_이해.pptx)
+- AI의 이해, 딥러닝의 이해 [AI_intro.pptx](AI_intro.pptx)
 - 실습 환경 셋업 [TODO]()
 - 딥러닝 실습 [dnn_intro.ipynb](material/dnn_intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/dnn_intro.ipynb)
     - 최소 DNN 코드 실습
@@ -44,10 +44,9 @@ ChatGPT와 같은 생성형 AI는 아직 연구에 직접 활용은 어렵지만
 <br>
 
 ## 2일차
-- 생성형 AI 이해 [AI의_이해.pptx](AI의_이해.pptx)
-- ChatGPT, OpenAI API 소개 [AI의_이해.pptx](AI의_이해.pptx)
-- 생성형 AI 활용 예
-- ChatGPT 실습
+- 생성형 AI 이해 [generative_AI_intro.pptx](generative_AI_intro.pptx)
+- ChatGPT, OpenAI API 소개 [generative_AI_intro.pptx](generative_AI_intro.pptx)
+- ChatGPT 실습 [generative_AI_intro.pptx](generative_AI_intro.pptx)
 - OpenAI API 실습
     - 호출 방법과 Prompt 실습 [openai_api_intro.ipynb](material/openai_api_intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/openai_api_intro.ipynb)
     - image 태그달기 실습 [openai_api_image.ipynb](material/openai_api_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/openai_api_image.ipynb)

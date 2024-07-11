@@ -28,7 +28,7 @@ ChatGPT와 같은 생성형 AI는 아직 연구에 직접 활용은 어렵지만
 ## 1일차
 
 - AI의 이해, 딥러닝의 이해 [AI_intro.pptx](AI_intro.pptx)
-- 실습 환경 셋업 [TODO]()
+- 실습 환경 셋업과 소개
 - 딥러닝 실습 [dnn_intro.ipynb](material/dnn_intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/dnn_intro.ipynb)
     - 최소 DNN 코드 실습
     - 영상 데이터의 이해

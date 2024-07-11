@@ -51,11 +51,11 @@ ChatGPT와 같은 생성형 AI는 아직 연구에 직접 활용은 어렵지만
     - 호출 방법과 Prompt 실습 [openai_api_intro.ipynb](material/openai_api_intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/openai_api_intro.ipynb)
     - image 태그달기 실습 [openai_api_image.ipynb](material/openai_api_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/openai_api_image.ipynb)
     - image 생성 실습 [openai_api_image_generation.ipynb](material/openai_api_image_generation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/openai_api_image_generation.ipynb)
+    - 동영상 학습 확인을 위한 퀴즈 생성 실습 : [movie_2_quiz.ipynb](material/movie_2_quiz.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/movie_2_quiz.ipynb)
     - 임베딩
         - OpenAI의 임베딩 소개글 : https://openai.com/index/introducing-text-and-code-embeddings/
         - 임베딩 실습 : [how_to_embedding.ipynb](material/how_to_embedding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/how_to_embedding.ipynb)
     - 임베딩을 사용한 커스텀 QnA 엔진 실습 : [customer_qna_engine.ipynb](material/customer_qna_engine.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/customer_qna_engine.ipynb)
-    - 동영상 학습 확인을 위한 퀴즈 생성 실습 : 
 
 <br>
 

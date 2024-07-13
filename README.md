@@ -87,3 +87,4 @@ ChatGPT와 같은 생성형 AI는 아직 연구에 직접 활용은 어렵지만
 - 단계별로 딥러닝 적용한 논문 사례 : https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit 중 리뷰5
 - 알파고 이해하기 [understanding_alphago.pptx](understanding_alphago.pptx)
 - GPT 구조 이해하기 [from_DNN_to_GPT.pptx](from_DNN_to_GPT.pptx)
+- OpenAI API CookBook : https://cookbook.openai.com

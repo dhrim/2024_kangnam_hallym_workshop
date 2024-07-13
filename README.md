@@ -49,6 +49,7 @@ ChatGPT와 같은 생성형 AI는 아직 연구에 직접 활용은 어렵지만
 - ChatGPT 실습 [generative_AI_intro.pptx](generative_AI_intro.pptx)
 - OpenAI API 실습
     - 호출 방법과 Prompt 실습 [openai_api_intro.ipynb](material/openai_api_intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/openai_api_intro.ipynb)
+    - 파인 튜닝 실습 [how_to_fine_tuning.ipynb](material/how_to_fine_tuning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/how_to_fine_tuning.ipynb)
     - image 태그달기 실습 [openai_api_image.ipynb](material/openai_api_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/openai_api_image.ipynb)
     - image 생성 실습 [openai_api_image_generation.ipynb](material/openai_api_image_generation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/openai_api_image_generation.ipynb)
     - 동영상 학습 확인을 위한 퀴즈 생성 실습 : [movie_2_quiz.ipynb](material/movie_2_quiz.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2024_kangnam_hallym_workshop/blob/main/material/movie_2_quiz.ipynb)
@@ -83,5 +84,6 @@ ChatGPT와 같은 생성형 AI는 아직 연구에 직접 활용은 어렵지만
 
 - Awesome Generative AI : https://github.com/steven2358/awesome-generative-ai
 - Awesome ChatGPT Prompt : https://github.com/f/awesome-chatgpt-prompts
-
+- 단계별로 딥러닝 적용한 논문 사례 : https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit 중 리뷰5
+- 알파고 이해하기 [understanding_alphago.pptx](understanding_alphago.pptx)
 
